@@ -1,0 +1,5 @@
+{
+  "name": "数字",
+  "description": "A math-based puzzle game where you select numbers to reach a target sum and prevent the blocks from reaching the top.",
+  "requestFramePermissions": []
+}
